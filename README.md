@@ -1,2 +1,2 @@
-# ktu-python-programming
-Here some basic python program solutions
+# ktu-c-programming
+Here some basic c-program solutions
